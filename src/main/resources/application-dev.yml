@@ -1,2 +1,6 @@
 server:
   port: 8080
+
+# swagger文档是否打开
+swagger:
+  enable: true
